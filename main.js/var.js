@@ -1,0 +1,1 @@
+alert("Tap in the button by show result of the operation");
