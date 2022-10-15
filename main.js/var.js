@@ -1,1 +1,4 @@
-alert("Tap in the button by show result of the operation");
+
+function myfunc() {
+    document.getElementById("demo").innerHTML = "Hello Everyone!";
+}
